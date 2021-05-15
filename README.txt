@@ -1,0 +1,1 @@
+La base de datos debe ser creada manualmente con el nombre "tienda" y alli importar el archivo "BD.sql"
